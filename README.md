@@ -47,7 +47,7 @@
 -->
 
 ### 📕 My Latest articles:
-- [Dockerizing a Python Flask application] (https://www.linkedin.com/pulse/how-docker-python-flask-application-mahmoud-anwer)
+- [Dockerizing a Python Flask application](https://www.linkedin.com/pulse/how-docker-python-flask-application-mahmoud-anwer)
 
 <!--
 ### 📕 My Presentations:
