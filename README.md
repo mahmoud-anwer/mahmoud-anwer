@@ -8,51 +8,57 @@
       </a>
 </p>
  -->
+<!-->
 <p align='right'>
       <a href="https://github.com/mahmoud-anwer">
             <img alt="Ansible Role" src="https://komarev.com/ghpvc/?username=mahmoud-anwer&label=PROFILE+VIEWS&color=red&style=flat-square">
       </a>
 </p>
+-->
 
-## 🤵 About Me:
-- 🏦 I'm a DevOps Engineer, who wants to cloud everything ❤️❤️).
+## 🤵 About Me
+- 🏦 I'm a DevOps Engineer, who wants to cloud everything 😊❤️)
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- 🤔 I use daily `.java`,` .kt`, `.sh`
+- 🤔 I work with `Docker``Kubernetes``Python`
+<!--
 - 😊 Pronouns: He/Him
 - 🔑 GPG key: `6CF56D21B9A90B5F`
 - 👯 I’m looking to collaborate with other developers
-- 💬 Got 2+ years of Exp in: **Clean architecture**, **Dependency Injection**, **S.O.L.I.D**, **Android Development**.
+-->
+- 💬 Got +2 years of Experience in: **Linux**, **Python**, **Bash**
 
+<!--
 <p align="center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="32" height="32"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="kotlin" width="32" height="32"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gradle/gradle-plain.svg" alt="gradle" width="32" height="32"/> 
 </p>
+-->
 
-### 🎮 Latest Inventions
-**PS:** I've got other multi-module projects developed, tested and maintained using Clean architecture, TDD and DI. If you are a recruiter just [let me know](mailto:abdelraoufsabri@gmail.com)
-
-<!-- - [MVI posts](https://github.com/AbdElraoufSabri/MVIPosts) --> 
+### 🎮 Latest achievements
+<!--
+**PS:** If you are a recruiter just [let me know](mailto:mahmoudanwer071@gmail.com)
 - [Jetpack compose challenge #1: The Pet Adoption App](https://github.com/AbdElraoufSabri/compose-challenge-1)
 - [Jetpack compose challenge #2: The Countdown Timer App](https://github.com/AbdElraoufSabri/compose-challenge-2)
 - [Twitter Search app](https://github.com/AbdElraoufSabri/WeeTwit)
 - [Open Source Library: RxJava3-Datastore](https://github.com/AbdElraoufSabri/DatastoreWithRxJava3)
 - [Open Source Library: CircularProgressBar](https://github.com/AbdElraoufSabri/CircularProgressBar)
 - [Open Source Library: FancyAndroidRuler](https://github.com/AbdElraoufSabri/FancyAndroidRuler)
-<!-- - [MVI sample](https://github.com/AbdElraoufSabri/mviSample) -->
+-->
 
 ### 📕 My Presentations:
 
 - [Social Engineering](https://abdelraoufsabri.github.io/Presentation), 26th Apil, 2020
 
-### 📕 My Latest Blog posts:
+### 📕 My Latest articles:
+- Dockerizing a Python-Flask application (https://www.linkedin.com/pulse/how-docker-python-flask-application-mahmoud-anwer)
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-<!--START_SECTION:waka-->
+START_SECTION:waka
 
-<!--END_SECTION:waka-->
-
+END_SECTION:waka
+<!--
 ⏳ **Year Progress** { ████████████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 55.95 % as on ⏰ 24-7-2021.
-
+-->
 
