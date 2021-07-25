@@ -25,7 +25,7 @@
 - 🔑 GPG key: ``
 - 👯 I’m looking to do something
 -->
-- 💬 Got +2 years of Experience in: **Linux**, **Python**, **Bash**
+- 💬 Got +2 years of Experience in **Linux**, **Python**, **Bash**
 
 <!--
 <p align="center">
@@ -47,7 +47,7 @@
 - [Open Source Library: FancyAndroidRuler](https://github.com/AbdElraoufSabri/FancyAndroidRuler)
 -->
 
-## 📕 My Latest articles:
+## 📕 My Latest Articles
 - [Dockerizing a Python Flask application](https://www.linkedin.com/pulse/how-docker-python-flask-application-mahmoud-anwer)
 
 <!--
