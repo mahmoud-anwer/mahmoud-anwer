@@ -35,8 +35,9 @@
 </p>
 -->
 
-## 🎮 Latest achievements
 <!--
+## 🎮 Latest achievements
+
 **PS:** If you are a recruiter just [let me know](mailto:mahmoudanwer071@gmail.com)
 - [Jetpack compose challenge #1: The Pet Adoption App](https://github.com/AbdElraoufSabri/compose-challenge-1)
 - [Jetpack compose challenge #2: The Countdown Timer App](https://github.com/AbdElraoufSabri/compose-challenge-2)
@@ -46,7 +47,7 @@
 - [Open Source Library: FancyAndroidRuler](https://github.com/AbdElraoufSabri/FancyAndroidRuler)
 -->
 
-### 📕 My Latest articles:
+## 📕 My Latest articles:
 - [Dockerizing a Python Flask application](https://www.linkedin.com/pulse/how-docker-python-flask-application-mahmoud-anwer)
 
 <!--
