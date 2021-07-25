@@ -17,9 +17,9 @@
 
 
 ## 🤵 About Me
-- 🏦 I'm a DevOps Engineer, who wants to cloud everything 😊❤️)
+- 🏦 I'm a DevOps Engineer, who wants to cloud everything 😊❤️
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- 🤔 I work with `Docker` `Kubernetes` `Python`
+- 🤔 I work with `Docker` `Kubernetes` `Python` `Ansible` and for sure with `Git`
 <!--
 - 😊 Pronouns: He/Him
 - 🔑 GPG key: ``
