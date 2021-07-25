@@ -25,7 +25,7 @@
 - 🔑 GPG key: ``
 - 👯 I’m looking to do something
 -->
-- 💬 Got +2 years of Experience in **Linux**, **Python**, **Bash**
+- 💬 Got +2 years of Experience in **Linux**, **Python** and **Bash**
 
 <!--
 <p align="center">
