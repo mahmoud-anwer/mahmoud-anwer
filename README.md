@@ -1,3 +1,7 @@
+### Hi there 👋, my name is Mahmoud Anwer
+#### I am a DevOps Engineer that wants to automate everything 😊❤️
+      <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+
 ### Hi there, I'm Mahmoud Anwer <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 [![Mail](https://img.shields.io/badge/-Say%20Hi!-black?style=for-the-badge&logo=gmail)](mailto:mahmoudanwer071@gmail.com)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/mahmoud-anwer-842539114/)
