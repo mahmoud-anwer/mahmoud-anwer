@@ -31,9 +31,9 @@
 <img src="https://github.com/mahmoud-anwer/mahmoud-anwer/blob/master/docker.svg" alt="Docker" width="48" height="48"/> 
 <img src="https://github.com/mahmoud-anwer/mahmoud-anwer/blob/master/kubernetes.svg" alt="Kubernetes" width="48" height="48"/>
 <img src="https://github.com/mahmoud-anwer/mahmoud-anwer/blob/master/python.svg" alt="Python" width="48" height="48"/> 
+<img src="https://github.com/mahmoud-anwer/mahmoud-anwer/blob/master/ansible.svg" alt="Ansible" width="48" height="48"/> 
 <img src="https://github.com/mahmoud-anwer/mahmoud-anwer/blob/master/linux.png" alt="Linux" width="48" height="48"/> 
 </p>
-
 
 <!--
 <p align="center">
@@ -55,8 +55,12 @@
 - [Open Source Library: FancyAndroidRuler](https://github.com/AbdElraoufSabri/FancyAndroidRuler)
 -->
 
-## 📕 My Latest Articles
+## 📕 Latest Blog Posts
 - [Dockerizing a Python Flask application](https://www.linkedin.com/pulse/how-docker-python-flask-application-mahmoud-anwer)
+
+## 📺 Latest YouTube Videos
+- [Certificate Authority (CA)](https://youtu.be/aq4-V2ynJJc)
+- [RSA keys generation and digital signature using OpenSSL](https://youtu.be/Ah0tjZFIG8I)
 
 <!--
 ### 📕 My Presentations:
