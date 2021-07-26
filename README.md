@@ -28,7 +28,7 @@
 - 💬 Got +2 years of Experience in **Linux**, **Python** and **Bash**
 
 <p align="center">
-<img src="https://github.com/mahmoud-anwer/mahmoud-anwer/blob/master/docker.svg" alt="docker" width="32" height="32"/> 
+<img src="https://github.com/mahmoud-anwer/mahmoud-anwer/blob/master/docker.svg" alt="docker" width="48" height="48"/> 
 </p>
 
 <!--
