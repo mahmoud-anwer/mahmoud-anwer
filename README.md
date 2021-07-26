@@ -29,7 +29,10 @@
 
 <p align="center">
 <img src="https://github.com/mahmoud-anwer/mahmoud-anwer/blob/master/docker.svg" alt="docker" width="48" height="48"/> 
+<img src="https://github.com/mahmoud-anwer/mahmoud-anwer/blob/master/linux.gif" alt="linux" width="48" height="48"/> 
+
 </p>
+
 
 <!--
 <p align="center">
