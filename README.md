@@ -1,5 +1,5 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, my name is Mahmoud Anwer from Egypt
-#### I am a Cybersecurity and DevOps Engineer that wants to automate everything 😊❤️ <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+#### I am a DevOps and Cybersecurity Engineer that wants to automate everything 😊❤️ <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 
 [![Mail](https://img.shields.io/badge/-Say%20Hi!-black?style=for-the-badge&logo=gmail)](mailto:mahmoudanwer071@gmail.com)
