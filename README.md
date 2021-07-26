@@ -22,8 +22,6 @@
 
 
 ## 🤵 About Me
-- 🏦 I'm a DevOps Engineer, who wants to automate everything 😊❤️
-      <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 🤔 I work with `Docker` `Kubernetes` `Python` `Ansible` and for sure with `Git`
 <!--
 - 😊 Pronouns: He/Him
