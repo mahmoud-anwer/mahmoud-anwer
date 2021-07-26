@@ -17,7 +17,7 @@
 
 
 ## 🤵 About Me
-- 🏦 I'm a DevOps Engineer, who wants to cloud everything 😊❤️
+- 🏦 I'm a DevOps Engineer, who wants to automate everything 😊❤️
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 🤔 I work with `Docker` `Kubernetes` `Python` `Ansible` and for sure with `Git`
 <!--
@@ -26,6 +26,10 @@
 - 👯 I’m looking to do something
 -->
 - 💬 Got +2 years of Experience in **Linux**, **Python** and **Bash**
+
+<p align="center">
+<img src="https://github.com/mahmoud-anwer/mahmoud-anwer/blob/master/docker.svg" alt="docker" width="32" height="32"/> 
+</p>
 
 <!--
 <p align="center">
