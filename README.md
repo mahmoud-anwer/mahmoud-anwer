@@ -50,16 +50,19 @@
 ## 🎮 Latest achievements
 
 **PS:** If you are a recruiter just [let me know](mailto:mahmoudanwer071@gmail.com)
-- [Jetpack compose challenge #1: The Pet Adoption App](https://github.com/AbdElraoufSabri/compose-challenge-1)
-- [Jetpack compose challenge #2: The Countdown Timer App](https://github.com/AbdElraoufSabri/compose-challenge-2)
-- [Twitter Search app](https://github.com/AbdElraoufSabri/WeeTwit)
-- [Open Source Library: RxJava3-Datastore](https://github.com/AbdElraoufSabri/DatastoreWithRxJava3)
-- [Open Source Library: CircularProgressBar](https://github.com/AbdElraoufSabri/CircularProgressBar)
-- [Open Source Library: FancyAndroidRuler](https://github.com/AbdElraoufSabri/FancyAndroidRuler)
+- [Jetpack compose challenge #1: The Pet Adoption App](https://github.com//compose-challenge-1)
+- [Jetpack compose challenge #2: The Countdown Timer App](https://github.com//compose-challenge-2)
+- [Twitter Search app](https://github.com//WeeTwit)
+- [Open Source Library: RxJava3-Datastore](https://github.com//DatastoreWithRxJava3)
+- [Open Source Library: CircularProgressBar](https://github.com//CircularProgressBar)
+- [Open Source Library: FancyAndroidRuler](https://github.com/f/FancyAndroidRuler)
 -->
 
 ## 📕 Latest Blog Posts
 - [Dockerizing a Python Flask application](https://www.linkedin.com/pulse/how-docker-python-flask-application-mahmoud-anwer)
+
+## 📕 Latest Documents
+- [Solving a web challenge from hackthebox site](https://www.linkedin.com/posts/mahmoud-anwer-842539114_a-web-challenge-with-automation-activity-6709258228439498752-wy_4)
 
 ## 📺 Latest YouTube Videos
 - [Certificate Authority (CA)](https://youtu.be/aq4-V2ynJJc)
@@ -68,7 +71,7 @@
 <!--
 ### 📕 My Presentations:
 
-- [Social Engineering](https://abdelraoufsabri.github.io/Presentation), 26th Apil, 2020
+- [Social Engineering](http_link), 26th Apil, 2020
 -->
 
 <!--
