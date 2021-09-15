@@ -22,7 +22,7 @@
 
 
 ## 🤵 About Me
-- 🤔 I work with `Docker` `Kubernetes` `Python` `Ansible` and for sure with `Git`
+- 🤔 I work with `Docker` `Kubernetes` `GitHub Actions` `Heroku` `Python` `Ansible` and for sure with `Git`
 <!--
 - 😊 Pronouns: He/Him
 - 🔑 GPG key: ``
@@ -33,6 +33,8 @@
 <p align="center">
 <img src="https://github.com/mahmoud-anwer/mahmoud-anwer/blob/master/docker.svg" alt="Docker" width="48" height="48"/> 
 <img src="https://github.com/mahmoud-anwer/mahmoud-anwer/blob/master/kubernetes.svg" alt="Kubernetes" width="48" height="48"/>
+<img src="https://github.com/mahmoud-anwer/mahmoud-anwer/blob/master/github.png" alt="GitHub Actions" width="48" height="48"/>
+<img src="https://github.com/mahmoud-anwer/mahmoud-anwer/blob/master/heroku.png" alt="Heroku" width="48" height="48"/>
 <img src="https://github.com/mahmoud-anwer/mahmoud-anwer/blob/master/python.svg" alt="Python" width="48" height="48"/> 
 <img src="https://github.com/mahmoud-anwer/mahmoud-anwer/blob/master/ansible.svg" alt="Ansible" width="48" height="48"/> 
 <img src="https://github.com/mahmoud-anwer/mahmoud-anwer/blob/master/linux.png" alt="Linux" width="48" height="48"/> 
