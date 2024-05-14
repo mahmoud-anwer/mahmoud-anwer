@@ -28,7 +28,7 @@
 - 🔑 GPG key: ``
 - 👯 I’m looking to do something
 -->
-- 💬 Got +2 years of Experience in **Linux**, **Python** and **Bash**
+- 💬 Got +3 years of Experience in **Linux**, **Python** and **Bash**
 
 <p align="center">
 <img src="https://github.com/mahmoud-anwer/mahmoud-anwer/blob/master/docker.svg" alt="Docker" width="48" height="48"/> 
